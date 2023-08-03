@@ -6,7 +6,8 @@ PANDAS
 
 Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. Here is the list of pandas functions used for analysis.
 
-	read_csv(file_name, separator) - Load a CSV file onto a data frame. The arguments passed are the path to the  file and the separator/delimiter value.
+	read_csv(file_name, separator) - Load a CSV file onto a data frame. The arguments passed are the path to the  file and the delimiter value.
+ 
 	head(n) - Gives the first 'n' rows of the dataframe. If no argument is passed then it returns the first 5 rows by default.
  
 	map(dict) - Map a set of values into another type specified by the dictionary 'dict'.
