@@ -1,6 +1,6 @@
 # Portfolio-Project-Visual-Data-Analysis-In-Banking
 
-Python is one of the best tools for performing data analysis. It includes a wide range og modules and libraries that can perform complex operations on large datasets. Few of the modules used in this project include :
+Python is one of the best tools for performing data analysis. It includes a wide range of modules and libraries that can perform complex operations on large datasets. Few of the modules used in this project include :
 
 PANDAS
 
